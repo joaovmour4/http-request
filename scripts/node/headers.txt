@@ -1,0 +1,13 @@
+date: Mon, 17 Jul 2023 15:03:57 GMT
+content-type: application/pdf
+transfer-encoding: chunked
+connection: close
+cache-control: private
+x-aspnet-version: 2.0.50727
+x-powered-by: ASP.NET
+cf-cache-status: DYNAMIC
+report-to: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=BVcdmu32th7Jl4t7lPfSytBzOmgqk9fMOywGBFj%2FNKxgskeUFwNfYWa2KYThfk%2FHaOFn8QXQtp2tQhsSOoxiqTDdsYlLxiR9RCvOHWycBprEguNYnTTL2FKxuuKBv%2FYXJ1ACJrwakg%3D%3D"}],"group":"cf-nel","max_age":604800}
+nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+server: cloudflare
+cf-ray: 7e835fdb9c0b00fe-GRU
+alt-svc: h3=":443"; ma=86400
